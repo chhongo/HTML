@@ -1,0 +1,32 @@
+/*titulo principal*/
+#titulo1 {
+    text-align: center;
+    color: red;
+  }
+  #para1 {
+    text-align: center;
+    color: blue;
+  }
+  #titulo2 {
+    text-align: center;
+    color: red;
+    background-color: DodgerBlue;
+  }
+  #parrafo2 {
+    text-align: center;
+    color: rgb(0, 17, 255);
+    background-color: rgb(255, 64, 30);
+  }
+  h2 {
+    border: 2px solid rgb(227, 255, 71);
+  }
+  p {
+    border: 2px solid rgb(255, 71, 71);
+  }
+  body {
+    background-color: rgb(230, 217, 173);
+  }
+  p{
+    background-color: rgb(128, 115, 0);
+    opacity: 0.6;
+  }
