@@ -7,26 +7,67 @@
     text-align: center;
     color: blue;
   }
-  #titulo2 {
-    text-align: center;
-    color: red;
-    background-color: DodgerBlue;
-  }
-  #parrafo2 {
-    text-align: center;
-    color: rgb(0, 17, 255);
+ 
+ 
+  #enca1 {
+    color: rgb(0, 0, 0); 
+    background-color: rgb(255, 64, 30); 
+    opacity: 1; 
+}
+
+#enca2 {
+    color: rgb(0, 0, 0);
     background-color: rgb(255, 64, 30);
-  }
+    opacity: 0.9; 
+}
+
+#enca3 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 64, 30);
+    opacity: 0.8; 
+}
+
+#enca4 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 64, 30);
+    opacity: 0.7; 
+}
+
+#enca5 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 64, 30);
+    opacity: 0.6; 
+}
+
+#enca6 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 64, 30);
+    opacity: 0.5; 
+}
+
+
+  
   h2 {
-    border: 2px solid rgb(227, 255, 71);
+    font-family: verdana;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(243, 255, 71);
+    background-color: rgb(255, 131, 30);
+    text-align: center;
+  }
+  h3 {
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 252, 71);
+    background-color: rgb(255, 131, 30);
+   
   }
   p {
+    font-family:courier;
     border: 2px solid rgb(255, 71, 71);
   }
   body {
-    background-color: rgb(230, 217, 173);
+    background-color: rgb(86, 78, 204);
   }
   p{
-    background-color: rgb(128, 115, 0);
-    opacity: 0.6;
+    background-color: green;
+   
   }
