@@ -1,4 +1,4 @@
-/*titulo principal*/
+
 #titulo1 {
     text-align: center;
     color: red;
@@ -63,11 +63,29 @@
   p {
     font-family:courier;
     border: 2px solid rgb(255, 71, 71);
+    background-color: green;
   }
   body {
     background-color: rgb(86, 78, 204);
   }
-  p{
-    background-color: green;
-   
+  a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
   }
+  a:visited {
+    color:  green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+ 
